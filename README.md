@@ -1,2 +1,2 @@
-# parth
-first repo
+# Parth
+First Repo
